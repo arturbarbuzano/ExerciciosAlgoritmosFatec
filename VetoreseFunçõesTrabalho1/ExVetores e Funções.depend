@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716354469 source:c:\users\user\desktop\lista de ex\exvetores e funções\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
