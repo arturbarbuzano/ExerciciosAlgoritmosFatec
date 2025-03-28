@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715025771 source:c:\users\user\desktop\lista de ex\ex2 funções\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
