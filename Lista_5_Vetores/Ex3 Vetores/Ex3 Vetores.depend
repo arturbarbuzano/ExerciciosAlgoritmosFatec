@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714973774 source:c:\users\user\desktop\lista de ex\ex3 vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+

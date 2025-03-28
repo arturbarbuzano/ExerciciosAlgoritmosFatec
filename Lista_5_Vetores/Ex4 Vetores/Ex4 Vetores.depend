@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715665086 source:c:\users\user\desktop\lista de ex\ex4 vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
